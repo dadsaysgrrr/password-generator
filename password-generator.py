@@ -57,4 +57,4 @@ print(word)
 
 
 print ("\nContains",lower,"lowercase,",upper,"uppercase,",number,"numbers and",symbol,"symbol characters")
-input('Copied to clipboard, press a button to exit.')
+input('Copied to clipboard. Press any button to exit.')
